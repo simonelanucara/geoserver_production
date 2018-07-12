@@ -1,0 +1,12 @@
+#1 use Oracle JRE 
+#2 tomcat jvm performance tuning see = setenv.sh
+#3 use java extension for native JAI and ImageIO
+#4 choose a rasterizer
+#5 configuration strategy
+#5.1 logging level PRODUCTION in the Web administration interface
+#5.2 set service strategy SPEED see = web.xml
+#5.3 Fill out the WFS, WMS, and WCS Contents and service limits see =  wms.xml - wfs.xml - wcs.xml
+#5.4 Cache your data see =web.xml
+#5.5 Use an external data directory see = web.xml
+#5.6 Restrict EPSG request
+
