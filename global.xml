@@ -5,24 +5,16 @@
       <addressCity>Reggio Calabria</addressCity>
       <addressCountry>Italy</addressCountry>
       <addressType>Work</addressType>
-      <contactEmail>simonelanucara@yahoo.it</contactEmail>
-      <contactOrganization>Universita Mediterranea - Dipartimento Agraria</contactOrganization>
+      <contactEmail>s.lanucara@ibfservizi.it</contactEmail>
+      <contactOrganization>IBF-Servizi</contactOrganization>
       <contactPerson>Simone Lanucara</contactPerson>
-      <contactPosition>SDI researcher</contactPosition>
+      <contactPosition>CTO Consultant</contactPosition>
     </contact>
     <charset>UTF-8</charset>
     <numDecimals>8</numDecimals>
     <onlineResource>http://geoserver.org</onlineResource>
     <verbose>false</verbose>
     <verboseExceptions>false</verboseExceptions>
-    <metadata>
-      <map>
-        <entry>
-          <string>quietOnNotFound</string>
-          <boolean>false</boolean>
-        </entry>
-      </map>
-    </metadata>
     <localWorkspaceIncludesPrefix>false</localWorkspaceIncludesPrefix>
   </settings>
   <jai>
