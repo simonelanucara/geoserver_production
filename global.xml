@@ -1,0 +1,53 @@
+<global>
+  <settings>
+    <id>SettingsInfoImpl-651689eb:1529e1818cb:-8000</id>
+    <contact>
+      <addressCity>Reggio Calabria</addressCity>
+      <addressCountry>Italy</addressCountry>
+      <addressType>Work</addressType>
+      <contactEmail>simonelanucara@yahoo.it</contactEmail>
+      <contactOrganization>Universita Mediterranea - Dipartimento Agraria</contactOrganization>
+      <contactPerson>Simone Lanucara</contactPerson>
+      <contactPosition>SDI researcher</contactPosition>
+    </contact>
+    <charset>UTF-8</charset>
+    <numDecimals>8</numDecimals>
+    <onlineResource>http://geoserver.org</onlineResource>
+    <verbose>false</verbose>
+    <verboseExceptions>false</verboseExceptions>
+    <metadata>
+      <map>
+        <entry>
+          <string>quietOnNotFound</string>
+          <boolean>false</boolean>
+        </entry>
+      </map>
+    </metadata>
+    <localWorkspaceIncludesPrefix>false</localWorkspaceIncludesPrefix>
+  </settings>
+  <jai>
+    <allowInterpolation>false</allowInterpolation>
+    <recycling>true</recycling>
+    <tilePriority>5</tilePriority>
+    <tileThreads>7</tileThreads>
+    <memoryCapacity>0.5</memoryCapacity>
+    <memoryThreshold>0.75</memoryThreshold>
+    <imageIOCache>false</imageIOCache>
+    <pngAcceleration>true</pngAcceleration>
+    <jpegAcceleration>true</jpegAcceleration>
+    <allowNativeMosaic>false</allowNativeMosaic>
+    <allowNativeWarp>false</allowNativeWarp>
+  </jai>
+  <coverageAccess>
+    <maxPoolSize>10</maxPoolSize>
+    <corePoolSize>5</corePoolSize>
+    <keepAliveTime>30000</keepAliveTime>
+    <queueType>UNBOUNDED</queueType>
+    <imageIOCacheThreshold>10240</imageIOCacheThreshold>
+  </coverageAccess>
+  <updateSequence>1055</updateSequence>
+  <featureTypeCacheSize>0</featureTypeCacheSize>
+  <globalServices>true</globalServices>
+  <xmlPostRequestLogBufferSize>1024</xmlPostRequestLogBufferSize>
+  <xmlExternalEntitiesEnabled>false</xmlExternalEntitiesEnabled>
+</global>
